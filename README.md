@@ -1,5 +1,5 @@
 # Clustering
-Clustering is an unsupervised learning technique. It seperates the smaples into different clusters based on some underlying similarity in the data.
+Clustering is an unsupervised learning technique. It seperates the samples into different clusters based on some underlying similarity in the data.
 
 ## K-Means
 K-Means clustering starts off by randomly initializing means followed by hard assignment of each sample to a cluster. This assignment is done based on some distance metric. I chose the euclidean distance.
